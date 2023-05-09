@@ -1,0 +1,69 @@
+/* Set font family and size */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+/* Style the header */
+h1 {
+  font-size: 36px;
+  color: #000a40;
+}
+
+h2 {
+  font-size: 28px;
+  color: #000a40;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/* Style the blockquote */
+blockquote {
+  font-size: 20px;
+  color: #000a40;
+}
+
+/* Style the table */
+table {
+  border-collapse: collapse;
+  margin-top: 10px;
+  width: 100%;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+/* Style the unordered list */
+ul {
+  list-style-type: square;
+  font-size: 20px;
+  color: #082e36;
+}
+
+/* Style the ordered list */
+ol {
+  list-style-type: lower-roman;
+  font-size: 20px;
+  color: #082e36;
+}
+
+/* Style the image */
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Style the horizontal rule */
+hr {
+  border: none;
+  border-top: 1px solid #ddd;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
